@@ -1,0 +1,4 @@
+Works great but the problem is that I have to keep the extension menu open and click stop, and if I close the extension the converted audio to text disapears or resets, I'd like it to listen continously and keep generating text in the page so the flow would be: 
+1. I click the extension, it starts listening I can freely browse the website where I'm working
+2. When I click the extension again it simply stops listening. 
+Please provide very detailed instructions about existing files, and where to make the adjustments. Also provide the full code for whatever file needs to be updated
